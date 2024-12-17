@@ -6,4 +6,4 @@ JNSQVO is a performance focused visual overhaul of JNSQ system ,volumetric cloud
 1.get a fresh install of ksp <br />
 2.drop whatever i put into google drive inside your gamedata <br />
 3.you are good to go <br />
-# Performance considerations
+# trivia and performance considerations 
