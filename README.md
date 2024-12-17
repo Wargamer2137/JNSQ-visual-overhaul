@@ -3,7 +3,7 @@
 JNSQVO is a performance focused visual overhaul of JNSQ system ,volumetric clouds and parallax continued are supported
 
 # Install instructions 
-1.get a fresh install of ksp <br />
+1.get a fresh install of ksp and download --> ,its a .rar file so a blessing for slow internet user but may take some time to unpack<br />
 2.drop whatever provided in google drive link into your game data <br />
 3.to ensure you actually paid for parallax and volumetrics i deleted 2 files that you have to get from their authors,these are Parallax_StockTerrainTextures and  StockVolumetricClouds folders  <br />
 4.play
