@@ -21,3 +21,7 @@ JNSQVO is a performance focused visual overhaul of JNSQ system ,volumetric cloud
 6.ksc has no trees around it ? / its feature both for performance reasons and on some world seeds parallax will grow a forest on your launchpad 
 
 7.some parts of terrain dissapear ,parallax continued wasnt made for 2,7x worlds ,it will either resolve itself in future releases or never
+
+#sccreenshot dumb
+
+
