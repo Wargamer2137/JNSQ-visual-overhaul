@@ -22,7 +22,7 @@ JNSQVO is a performance focused visual overhaul of JNSQ system ,volumetric cloud
 
 7.some parts of terrain dissapear ,parallax continued wasnt made for 2,7x worlds ,it will either resolve itself in future releases or never
 
-#sccreenshots
+# Screenshots 
 
 ![screenshot75](https://github.com/user-attachments/assets/ce0d8731-8860-4292-9e4a-9a7af4b2b055)
 ![screenshot64](https://github.com/user-attachments/assets/216901cd-2f41-4e4d-befa-38ff3470141d)
