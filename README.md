@@ -29,4 +29,5 @@ JNSQVO is a performance focused visual overhaul of JNSQ system ,volumetric cloud
 ![screenshot96](https://github.com/user-attachments/assets/6a6f6bb8-4f49-4ded-b673-d68c8b0a7b36)
 ![screenshot82](https://github.com/user-attachments/assets/7a9c422d-6889-4d65-977c-a11dce9c5ff8)
 ![screenshot45](https://github.com/user-attachments/assets/d6094c71-dec9-4b09-bf89-6ebf83916908)
+<img width="692" alt="settings" src="https://github.com/user-attachments/assets/791e9e03-5692-43e8-b535-7939fcbbce5c" />
 
