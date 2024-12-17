@@ -11,7 +11,6 @@ JNSQVO is a performance focused visual overhaul of JNSQ system ,volumetric cloud
 3.to ensure you actually paid for parallax and volumetrics i deleted 2 files that you have to get from their authors,these are Parallax_StockTerrainTextures and  StockVolumetricClouds folders  <br />
 
 4.open the game and change your settings to this if you want the exact same visuals as in screenshots 
-
 <img width="692" alt="settings" src="https://github.com/user-attachments/assets/791e9e03-5692-43e8-b535-7939fcbbce5c" />
 # trivia and performance considerations 
 1.there are two forbidden bodies in the system ,gilly and Riga ,both have some parallax related errors i will work out in the future <br />
