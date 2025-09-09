@@ -31,6 +31,7 @@ https://drive.google.com/file/d/1s1yTEAcGWsRhLr-qpOUJXsNqCMUhVG2b/view
 ![screenshot82](https://github.com/user-attachments/assets/7a9c422d-6889-4d65-977c-a11dce9c5ff8)
 ![screenshot45](https://github.com/user-attachments/assets/d6094c71-dec9-4b09-bf89-6ebf83916908)
 
-credits : https://github.com/wdolatowska for redacting 
+Credits: https://github.com/wdolatowska for text adjustment
+
 
 
