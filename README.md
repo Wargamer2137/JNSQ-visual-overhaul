@@ -10,6 +10,7 @@ https://drive.google.com/file/d/1s1yTEAcGWsRhLr-qpOUJXsNqCMUhVG2b/view
 3. To ensure you actually paid for parallax and volumetrics I deleted 2 files that you have to get from their authors, these are Parallax_StockTerrainTextures and StockVolumetricClouds folders
 4. Open the game and change your settings to this if you want the exact same visuals as in screenshots 
 <img width="692" alt="settings" src="https://github.com/user-attachments/assets/791e9e03-5692-43e8-b535-7939fcbbce5c" />
+
 # Trivia and performance considerations
 
 1. There are two forbidden bodies in the system, gilly and Riga, both have some parallax related errors I will work out in the future
