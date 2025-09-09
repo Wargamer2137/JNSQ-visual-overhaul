@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1s1yTEAcGWsRhLr-qpOUJXsNqCMUhVG2b/view
 3. Pol lack of scatters is on purpose, these tree like objects are spooky as fuck
 4. Tylo is most laggy place because it features atmosphere + reflective surface + scatters
 5. Black overlays on screen? Turn of hdr in tufx.
-6. Ksc has no trees around it ? / its feature both for performance reasons and on some world seeds parallax will grow a forest on your launchpad
+6. Ksc has no trees around it? Its feature both for performance reasons and on some world seeds parallax will grow a forest on your launchpad
 7. If you zoom sometimes a grid of terrain can disappear, parallax continued wasn’t made for 2,7x worlds, it will either resolve itself in future releases or never
 
 
@@ -30,5 +30,7 @@ https://drive.google.com/file/d/1s1yTEAcGWsRhLr-qpOUJXsNqCMUhVG2b/view
 ![screenshot96](https://github.com/user-attachments/assets/6a6f6bb8-4f49-4ded-b673-d68c8b0a7b36)
 ![screenshot82](https://github.com/user-attachments/assets/7a9c422d-6889-4d65-977c-a11dce9c5ff8)
 ![screenshot45](https://github.com/user-attachments/assets/d6094c71-dec9-4b09-bf89-6ebf83916908)
+
+credits : https://github.com/wdolatowska for redacting 
 
 
